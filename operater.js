@@ -6,4 +6,4 @@ with(location) {
     var url = href
 }
 
-console.log(q, host, href, window.location, window.addEventListener());
+console.log(q, host, href, window.addEventListener());
