@@ -9,3 +9,4 @@ with(location) {
 
 console.log(q, host, href);
 
+add new line
