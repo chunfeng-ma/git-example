@@ -11,3 +11,5 @@ with(location) {
 add new line
 add new line2
 relate location dev add remote branch dev
+
+node-file add dev location branch 
